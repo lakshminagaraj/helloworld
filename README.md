@@ -2,4 +2,4 @@
 Hello World
 
 
-All I'n trying to do is learn git
+All I'm trying to do is learn git
